@@ -1,8 +1,7 @@
-### Note if you cannot open some file click to download or Read (ReadMe) just below the files, there might be link to preview file without
-### downloading
+### Note if you cannot open some file click to download or Read (ReadMe) just below the files, there might be link to preview file without downloading
 
-# Contains coding examples for R, Python, SAS
-# Contains GIS assignments examples, Synchro and VISSIM examples and simulation video
+## Contains coding examples for R, Python, SAS
+## Contains GIS assignments examples, Synchro and VISSIM examples and simulation video
 
 * Discrete choice/conjoint analysis, max-diff scripts in R- Programming and Python
 * Gis assignmnet final pdf/doc files
